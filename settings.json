@@ -6,15 +6,15 @@
 	"anti_delete" : false,
 	"anticall": true,
 	"auto_welcome_msg": true,
-	"auto_leave_msg": true,
+	"auto_leave_msg": false,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfc",
-	"ownername": "ZeeoneOfc",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownerNumber": "61426656718",
+	"ownerNumberr": "61426656718",
+	"cr": "@Ria",
+	"ownername": "Ria",
+	"botname":"Tachibana Hina",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfc"
+	"fake": " 「  Tachibana Hina  」\nCreated By @Ria"
 }
