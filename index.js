@@ -195,7 +195,7 @@ autoregister = setting.user_register
 
 img = setting.img
 baper = 'TACHIBANA HINA'
-apiku = 'https://youtu.be/BBJa32lCaaY'
+apiku = 'https://chat.whatsapp.com/KJhn9TsW65iA2fCC4FD2IK'
 gc_wa_lu = 'https://chat.whatsapp.com/KJhn9TsW65iA2fCC4FD2IK' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
